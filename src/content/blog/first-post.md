@@ -2,7 +2,7 @@
 title: 'What Healthcare Operations Actually Looks Like Behind the Scenes'
 description: 'A behind-the-scenes look at healthcare operations, workflow coordination, process improvement, and the systems that help healthcare organizations run efficiently'
 pubDate: 'May 12, 2026'
-heroImage: "/images/healthcare-operations-workflow.jpg"
+heroImage: 
 ---
 
 When most people think about healthcare, they immediately think about doctors, nurses, hospitals, and patient care.
